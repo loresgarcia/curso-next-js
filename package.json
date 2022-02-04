@@ -2,7 +2,7 @@
   "name": "alura-cases-divulgacao",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/loresgarcia/next-js",
+  "repository": "https://github.com/loresgarcia/curso-next-js",
   "author": "Lorena Garcia",
   "license": "MIT",
   "dependencies": {
